@@ -1,3 +1,5 @@
+# Taken to maintain a bakcup of the Heatmiser_wifi.py script 
+
 # Heatmiser WiFi - python library and tool
 [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/midstar/heatmiser_wifi?svg=true)](https://ci.appveyor.com/api/projects/status/github/midstar/heatmiser_wifi)
 
